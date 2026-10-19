@@ -9,4 +9,4 @@ Python · PyTorch · pandas · scikit-learn · SQL
 - Learning C++ · FastAPI + Docker · RAG
 
 **Find me**
-[LinkedIn](www.linkedin.com/in/trangnhinguyen) · [Email](nguyentrangnhi@gmail.com)
+www.linkedin.com/in/trangnhinguyen · nguyentrangnhi@gmail.com
